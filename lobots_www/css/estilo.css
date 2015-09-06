@@ -1,0 +1,19 @@
+body {
+  background-color: #EFF;
+  font-family: sans-serif;
+}
+
+h2 {
+  background-color: #AAF;
+  margin-bottom: 0px;
+}
+
+
+table {
+  border: 0px;
+}
+
+table .titulo {
+  background-color: #FF8;
+  font-weight: bold;
+}
