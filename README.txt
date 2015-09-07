@@ -1,3 +1,9 @@
+﻿Cliente para Lobots - Algoritmo evolutivo
+
+Felipe Kermentz Ferraz Costa
+
+
+
 INSTALAÇÃO -------------------------------------------------------
 
 Instalar pacotes necessários para compilação e execução do software servidor+cliente
